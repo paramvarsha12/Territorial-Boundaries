@@ -1,19 +1,24 @@
-Explore the application here: territorialboundarieslodddd.netlify.app
+# 🗺️ Territorial Boundaries Visualizer
 
+**Explore live ➡️ [territorialboundarieslodddd.netlify.app](https://territorialboundarieslodddd.netlify.app)**
 
-Features
-Interactive Point Input: Click on the canvas to add points dynamically.
+An interactive web application that lets you dynamically visualize the **Convex Hull** of user-defined points on a canvas. Whether you're learning computational geometry or building spatial tools, this project is a great starting point.
 
-Real-time Convex Hull Computation: Upon adding points, the application computes and displays the convex hull instantly.
+---
 
-Visual Feedback: Distinct colors differentiate between input points and the resulting convex hull.
+##  Features
 
-Responsive Design: Ensures usability across various devices and screen sizes.
+- ** Interactive Point Input:** Click on the canvas to add points with ease.
+- ** Real-time Convex Hull Computation:** Watch the convex hull update instantly as you add new points.
+- ** Visual Feedback:** Clearly distinguishes between input points and the computed convex hull using color-coded visuals.
+- ** Responsive Design:** Works smoothly across devices — desktops, tablets, and phones.
 
+---
 
-Frontend: React.js for building the user interface.
+##  Tech Stack
 
-Styling: CSS for layout and design aesthetics.
-
-Deployment: Hosted on Netlify for seamless access.
-Scale & Convert
+| Layer     | Technology     |
+|-----------|----------------|
+| Frontend  | React.js       |
+| Styling   | CSS            |
+| Hosting   | Netlify        |
